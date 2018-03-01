@@ -1,7 +1,10 @@
 # Webpack-4-with-React-and-Sass
-A workflow template starter using the newest Webpack 4 with React with ES6 binding features and SASS with no running server. 
+A workflow template starter using the newest Webpack 4 with React with ES6 binding features and SASS with no running server.
 
 Strictly for Front-end use.
+
+```src folder``` is where you write your code.
+```public folder``` is where files compiled by Webpack.
 
 ```package.json``` contains following run scripts and library modules:
 ```
